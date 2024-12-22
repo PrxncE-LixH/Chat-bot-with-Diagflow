@@ -1,0 +1,7 @@
+*.exe 
+*.txt 
+*.pem
+*.old
+my_data/
+PandeyjiChatBotCodebasicsProject/
+!requirements.txt
