@@ -75,7 +75,7 @@ It is assumed you already have XAMPP, mysql, and MySQL Workbench 8.0 set up. Ref
 - Start Ngrok and generate an HTTPS url- Ngrok should be in the same directory as the backend server file. 
 - Enable webhooks on Diagflow and replace the url with the new Ngrok url.
 - Start frontend
-## Screenshots
+## Demo
 ```
 video
 
