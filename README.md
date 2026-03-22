@@ -83,16 +83,10 @@ https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Reco
 
 ```
 
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot%202024-12-22%20014423.png?alt=media&token=d04713e8-6071-4f8f-9f72-2156d33a4cee)
+![image](assets/Screenshot.png)
 
 
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot_1_TE.jpg?alt=media&token=6d957cb3-656f-44b8-a902-b44de86f4838)
-
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot_2_TE.jpg?alt=media&token=905c60ce-7fb3-46cb-a9fe-6ddb29895ff6)
-
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot_3_TE.jpg?alt=media&token=4fa06635-25c1-4958-bde6-b833ebe7df0c)
-
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot_4_TE.jpg?alt=media&token=c92b3138-a72a-41c1-beaf-250370f9d300)
+![image](assets/Screenshot_1.png)
 
 
 
